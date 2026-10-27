@@ -1,0 +1,12 @@
+# MATLAB generated data and exports
+*.asv
+*.autosave
+*.mat
+*.mp4
+*.avi
+*.fig
+*.log
+slprj/
+*.slxc
+.DS_Store
+Thumbs.db
